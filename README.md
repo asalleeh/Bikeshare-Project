@@ -6,13 +6,21 @@ Bike Share Activity
 Table of Contents:
 
 Introduction
+
 Posing Questions
+
 Data Collection and Wrangling
+
 Condensing the Trip Data
+
 Exploratory Data Analysis
+
 Statistics
+
 Visualizations
+
 Performing Your Own Analysis
+
 Conclusions
 
 Question: Putting the bike share data aside, think of a topic or field of interest where you would like to be able to apply the techniques of data science. What would you like to be able to learn from your chosen subject?
